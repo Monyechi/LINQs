@@ -1,0 +1,7 @@
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\bin\Debug\LINQ.exe
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\bin\Debug\LINQ.pdb
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\obj\Debug\LINQ.exe
+C:\Users\monye\OneDrive\Desktop\devCodeCamp\Week 3\Projects\LINQs\LINQ\obj\Debug\LINQ.pdb
