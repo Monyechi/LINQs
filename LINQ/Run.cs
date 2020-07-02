@@ -11,6 +11,7 @@ namespace LINQ
 
        public Run()
         {
+            Question2();
             Console.ReadLine();
         }
 
@@ -33,8 +34,12 @@ namespace LINQ
         {
             List<string> names = new List<string>() { "Mike", "Brad", "Nevin", "Ian", "Mike" };
 
+            var namelist = names.Distinct().ToList();
 
-
+            for (int i = 0; i < namelist.Count(); i++)
+            {
+                Console.WriteLine(namelist[i]);
+            }
         }
 
        
